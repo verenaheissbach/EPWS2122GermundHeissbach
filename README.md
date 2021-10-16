@@ -4,7 +4,9 @@ Repository im Rahmen des Entwicklungsprojekts WS21/22
 ## Darstellung des Problemraums
 ##### Was soll warum behandelt werden?
 
-Aufgabe unserer Gesellschaft: Wie können wir unseren Konsum und die Lebensmittelproduktion nachhaltiger gestalten? (Bezug zu den Zielen für nachhaltige Entwicklung) Aquaponikanlagen sind eine nachhaltige Alternative zur herkömmlichen Landwirtschaft. 
+Klimaschutz, Naturschutz sowie nachhaltige Landwirtschaft sind die aktuellen Themen unserer Gesellschaft. Wie können wir unseren Konsum und die Lebensmittelproduktion nachhaltiger gestalten? Was kann jede:r Einzeln:e dazu beitragen? 
+
+Aquaponikanlagen sind eine nachhaltige Alternative zur herkömmlichen Landwirtschaft und können im kleinen wie auch im großen Umfang betrieben werden. Sowohl das Wasser als auch die Nährstoffe befinden sich in einem geschlossenen System mit sehr geringen Verlusten, wodurch Aquaponik eine höchst ressourcenschonende Methode zur Fisch- und Pflanzenzucht darstellt (vgl. aquaponik manufaktur GmbH, 2020).
 Der Betrieb von Aquaponikanlagen erfordert eine tägliche Kontrolle, was besonders bei privat betriebenen Aquaponikanlagen eine hohe Belastung darstellen kann.
 
 <img src="https://raw.githubusercontent.com/verenaheissbach/EPWS2122GermundHeissbach/main/images/Dom%C3%A4nenmodell%20EP_Iteration1.png" width="500">
@@ -44,3 +46,5 @@ Wichtig: der Betrieb einer Aquaponikanlage bringt keine wirtschaftlichen Vorteil
 
 ### Quellen:
 https://17ziele.de/index.html
+
+aquaponik manufaktur GmbH (2020). *Über Aquaponik.* https://www.aquaponik-manufaktur.de/ueber-aquaponik/
