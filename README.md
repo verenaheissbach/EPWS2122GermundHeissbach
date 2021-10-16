@@ -4,7 +4,7 @@ Repository zum Entwicklungsprojekt WS21/22
 1. Darstellung des Problemraums
 ##### Was soll warum behandelt werden?
 
-![Domänenmodell](https://raw.githubusercontent.com/verenaheissbach/EPWS2122GermundHeissbach/main/images/Dom%C3%A4nenmodell%20EP.png)
+![Domänenmodell](https://raw.githubusercontent.com/verenaheissbach/EPWS2122GermundHeissbach/main/images/Dom%C3%A4nenmodell%20EP_Iteration1.png)
 
 
 
