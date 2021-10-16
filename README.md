@@ -4,19 +4,15 @@ Repository im Rahmen des Entwicklungsprojekts WS21/22
 ## Darstellung des Problemraums
 ##### Was soll warum behandelt werden?
 
-
-Der Betrieb von Aquaponikanlagen erfordert eine tägliche Kontrolle, was besonders bei privat betriebenen Aquaponikanlagen eine hohe Belastung darstellen kann. Darüber hinaus sind 
+Aufgabe unserer Gesellschaft: Wie können wir unseren Konsum und die Lebensmittelproduktion nachhaltiger gestalten? (Bezug zu den Zielen für nachhaltige Entwicklung) Aquaponikanlagen sind eine nachhaltige Alternative zur herkömmlichen Landwirtschaft. 
+Der Betrieb von Aquaponikanlagen erfordert eine tägliche Kontrolle, was besonders bei privat betriebenen Aquaponikanlagen eine hohe Belastung darstellen kann.
 
 <img src="https://raw.githubusercontent.com/verenaheissbach/EPWS2122GermundHeissbach/main/images/Dom%C3%A4nenmodell%20EP_Iteration1.png" width="500">
 
 
 ## Zielsetzung und Vision
-##### Welchen Mehrwert bringt das Projekt und wie erreichen wir diesen?
 
-- Die Vision ist in der Regel technologieunabhängig; außer sie sind aus dem Problemraum heraus begründet
-- Wird als Grundlage für die Evaluation /  Einschätzung der Zielerreichung genutzt
-
-Es soll ein interaktives System zur Fernüberwachung von Aquaponikanlagen entstehen, welches den Betrieb, die Kontrolle und Wartung erleichtert und somit auch die Gesamtsicherheit der Anlage erhöht.
+Es soll ein System zur Fernüberwachung von Aquaponikanlagen entstehen, welches den Betrieb, die Kontrolle und Wartung erleichtert und somit auch die Gesamtsicherheit der Anlage erhöht. Es wäre somit nicht mehr notwendig, dass Betreiber der Anlage manuell Proben aus dem Fischbecken entnehmen, um Messwerte zu erhalten; stattdessen würde dies durch ein System von Sensoren und Schnittstellen automatisiert werden. Sollten die Messwerte in einen kritischen Bereich gelangen, sendet das System eine Benachrichtigung an die Betreiber.
 
 ## Gesellschaftliche, wirtschaftliche und wissenschaftliche Relevanz
 ##### Inwiefern ist die Adressierung dieser bestimmten Problemstellung mittels dieser bestimmen Zielsetzung relevant?
@@ -44,3 +40,7 @@ Wirtschaftliche Relevanz:
 - Integration in diverse Bereiche möglich: z.B. Supermärkte, Gastronomie, Einzelhandel, Gemeinschaftsgärten, Haushalte
 
 Wichtig: der Betrieb einer Aquaponikanlage bringt keine wirtschaftlichen Vorteile, da Kosten für den Aufbau sowie Strom-, Wasser- und Futterversorgung anfallen.
+
+
+### Quellen:
+https://17ziele.de/index.html
