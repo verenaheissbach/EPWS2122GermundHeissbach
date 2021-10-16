@@ -2,19 +2,23 @@
 Repository im Rahmen des Entwicklungsprojekts WS21/22
 
 ## Darstellung des Problemraums
-##### Was soll warum behandelt werden?
 
 Klimaschutz, Naturschutz sowie nachhaltige Landwirtschaft sind die aktuellen Themen unserer Gesellschaft. Wie können wir unseren Konsum und die Lebensmittelproduktion nachhaltiger gestalten? Was kann jede:r Einzeln:e dazu beitragen? 
 
-Aquaponikanlagen sind eine nachhaltige Alternative zur herkömmlichen Landwirtschaft und können im kleinen wie auch im großen Umfang betrieben werden. Sowohl das Wasser als auch die Nährstoffe befinden sich in einem geschlossenen System mit sehr geringen Verlusten, wodurch Aquaponik eine höchst ressourcenschonende Methode zur Fisch- und Pflanzenzucht darstellt (vgl. aquaponik manufaktur GmbH, 2020).
-Der Betrieb von Aquaponikanlagen erfordert eine tägliche Kontrolle, was besonders bei privat betriebenen Aquaponikanlagen eine hohe Belastung darstellen kann.
+Aquaponikanlagen sind eine nachhaltige Alternative zur herkömmlichen Landwirtschaft und können im kleinen wie auch im großen Umfang betrieben werden. Sowohl das Wasser als auch die Nährstoffe befinden sich in einem geschlossenen System mit sehr geringen Verlusten, wodurch Aquaponik eine höchst ressourcenschonende Methode zur Fisch- und Pflanzenzucht darstellt[^1].
+
+<img src="https://raw.githubusercontent.com/verenaheissbach/EPWS2122GermundHeissbach/main/images/aquaponik_sdg.png" width="400">
+
+Quelle: [^1]
+
+Der private Betrieb von kleinen Aquaponikanlagen erfordert eine tägliche visuelle Kontrolle sowie die regelmäßige Überprüfung von Messwerten wie Temperatur, pH-Wert, Sauerstoffgehalt und Mineralien, was eine hohe Belastung für den Privatbetreiber erzeugt. Hierbei müssen teils aufwändige Messmethoden zum Einsatz kommen, die für Laien eine Herausforderung darstellen können.
 
 <img src="https://raw.githubusercontent.com/verenaheissbach/EPWS2122GermundHeissbach/main/images/Dom%C3%A4nenmodell%20EP_Iteration1.png" width="500">
 
 
 ## Zielsetzung und Vision
 
-Es soll ein System zur Fernüberwachung von Aquaponikanlagen entstehen, welches den Betrieb, die Kontrolle und Wartung erleichtert und somit auch die Gesamtsicherheit der Anlage erhöht. Es wäre somit nicht mehr notwendig, dass Betreiber der Anlage manuell Proben aus dem Fischbecken entnehmen, um Messwerte zu erhalten; stattdessen würde dies durch ein System von Sensoren und Schnittstellen automatisiert werden. Sollten die Messwerte in einen kritischen Bereich gelangen, sendet das System eine Benachrichtigung an die Betreiber.
+Es soll ein System zur Fernüberwachung von Aquaponikanlagen entstehen, welches den Betrieb, die Kontrolle und Wartung erleichtert und somit auch die Gesamtsicherheit der Anlage erhöht. Ein System von Sensoren und Schnittstellen würde das Überwachen der Messwerte übernehmen und die Betreiber der Anlage bei einem Eintritt in kritische Wertebereiche benachrichtigen. Es wäre somit nicht mehr notwendig, dass Betreiber der Anlage manuell Proben aus dem Fischbecken entnehmen müssen, um Messwerte zu erhalten. Auch eine tägliche Kontrolle müsste somit nicht mehr stattfinden.
 
 ## Gesellschaftliche, wirtschaftliche und wissenschaftliche Relevanz
 ##### Inwiefern ist die Adressierung dieser bestimmten Problemstellung mittels dieser bestimmen Zielsetzung relevant?
@@ -47,4 +51,4 @@ Wichtig: der Betrieb einer Aquaponikanlage bringt keine wirtschaftlichen Vorteil
 ### Quellen:
 https://17ziele.de/index.html
 
-aquaponik manufaktur GmbH (2020). *Über Aquaponik.* https://www.aquaponik-manufaktur.de/ueber-aquaponik/
+[^1]: aquaponik manufaktur GmbH (2020). *Über Aquaponik.* https://www.aquaponik-manufaktur.de/ueber-aquaponik/
