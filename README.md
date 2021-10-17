@@ -33,10 +33,11 @@ Es soll ein System zur Fernüberwachung von Aquaponikanlagen entstehen, welches 
 ## Gesellschaftliche, wirtschaftliche und wissenschaftliche Relevanz
 
 ##### Gesellschaftliche Relevanz: 
-Aquaponikanlagen stellen somit einen annähernd perfekten Kreislauf dar. Und ermöglichen eine umweltfreundlichere und nachhaltigere Landwirtschaft. Die Kombination aus Anbau und Fischzucht begünstigen darüber hinaus eine artgerechte Fischhaltung (keine Massentierhaltung) sie ermöglichen den verzicht auf zusätzliche Dünger und verringern den gesamtes Wasservebrauch des Systems (ökologische Aspekte).
+Aquaponikanlagen stellen somit einen annähernd perfekten Kreislauf dar. Und ermöglichen eine umweltfreundlichere und nachhaltigere Landwirtschaft. Die Kombination aus Anbau und Fischzucht begünstigen darüber hinaus eine artgerechte Fischhaltung (keine Massentierhaltung), sie ermöglichen den Verzicht auf zusätzliche Dünger und verringern den gesamten Wasserverbrauch des Systems (ökologische Aspekte).
 
-Durch ein System zur Fernüberwachung könnten diese Anlagen leichter zugänglich gemacht werden und auch von Privatpersonen bewacht bzw. betrieben werden. Aquponikanlagen können Standort unabhängig lokaliserit werden, sie können beispielsweise auch auf versiegelten Flächen platziert werden und ermöglichen somit ungenutze Flächen sinnvoll zu nutzen[^4]. Und unterstützen darüber hinaus die Möglichkeit, dass Supermärkte eigene Anlagen betreiben. Dadurch werden nicht nur regionale Produkte angeboten sondern auch CO2 gespart durch eine Verkürzung von Lieferketten.
+Durch ein System zur Fernüberwachung könnten diese Anlagen leichter zugänglich gemacht werden und auch von Privatpersonen bewacht bzw. betrieben werden. Aquaponikanlagen können Standort unabhängig lokalisiert werden und könnten beispielsweise auch auf versiegelten Flächen platziert werden. Dadurch eröffnen sich neue Möglichkeiten der Raumnutzung [^4]. Und unterstützen darüber hinaus die Möglichkeit, dass z.B. Supermärkte eigene Anlagen betreiben könnten. Die angebauten Pflanzen könnten regional und frisch im Markt angeboten werden. Durch diese Verkürzung der Lieferketten kann CO2 gespart werden.
 Im Gesamten könnten also durch die angestrebte Vision des Projektes folgende Ziele zur nachhaltigen Entwicklung positiv zum Klimaschutz beitragen.
+
 
 Folgende Ziele für nachhaltige Entwicklung werden verfolgt:
 - Nr. 12: Nachhaltige/r Konsum und Produktion
@@ -49,12 +50,11 @@ Teilweise sind auch folgende Ziele enthalten:
 
 
 ##### Wissenschaftliche Relevanz:
-Auf Grundlage der Daten könnten neue Forschungsprojekte gestartet werden. Zur Unterstüzung einer nachhaltigeren Landwirtschaft. Vielleicht lassen sich solche Anlagen erweitern, verbessern oder auch mit anderen Pflanzen bzw Nutztieren betreiben.
+Auf Grundlage der Daten könnten neue Forschungsprojekte gestartet werden. Welche zu einer nachhaltigeren Landwirtschaft beitragen.  Die Anlagen könnten erweitert, verbessert oder auch mit anderen Pflanzen bzw. Nutztieren betrieben werden.
 
 ##### Wirtschaftliche Relevanz:
 Die Projektidee schließt eine Marktlücke: Überwachung kleiner/privater Aquaponikanlagen, da bis zum jetzigen Zeitpunkt noch kein solches System vorhanden ist.
-Zusätzlich unterstüztzt es die Integration in diverse Bereiche möglich: z.B. Supermärkte, Gastronomie, Einzelhandel, Gemeinschaftsgärten, Haushalte.
-
+Zusätzlich unterstüztzt es die Integration in diverse Bereiche: z.B. Supermärkte, Gastronomie, Einzelhandel, Gemeinschaftsgärten, Haushalte.
 ##### Wichtig: 
 Der Betrieb einer Aquaponikanlage bringt keine wirtschaftlichen Vorteile, da Kosten für den Aufbau sowie Strom-, Wasser- und Futterversorgung anfallen.
 
