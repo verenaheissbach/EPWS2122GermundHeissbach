@@ -15,11 +15,11 @@ Aquaponikanlagen (Zusammensetzung aus Aquakultur und Hydroponik) stellen aufgrun
 
 Abbildung 2: Erfüllte Ziele für eine nachhaltige Entwicklung, Quelle: [^2]
 
-Der private Betrieb von kleinen Aquaponikanlagen erfordert eine tägliche visuelle Kontrolle sowie die regelmäßige Überprüfung von Messwerten wie Temperatur, pH-Wert, Sauerstoffgehalt und Mineralien, was eine hohe Belastung für den Privatbetreiber erzeugt. Hierbei müssen teils aufwändige Messmethoden zum Einsatz kommen, die für Laien eine Herausforderung darstellen können. Abbildung 4 zeigt ein Domänenmodell, welches diesen Vorgang näher spezifiziert.
+Der zeitliche Aufwand für den privaten Betrieb von Aquaponikanlagen kann hinsichtlich der geplanten Größe sowie der verfolgten Ziele stark variieren.[^3] Im Rahmen eines Projekts des Instituts für Biologiedidaktik der Universität zu Köln wird seit mehreren Jahren eine kleine Anlage betrieben. Die Projektmitarbeiter:innen müssen hierfür eine eine tägliche visuelle Kontrolle durchführen sowie regelmäßig die Wasserqualität anhand diverser Messwerte wie Temperatur, pH-Wert, Sauerstoffgehalt und Mineraliengehalt überprüfen. Besonders Letzteres hat eine hohe Bedeutung für den wissenschaftlichen Aspekt der Anlage, führt aber auch zu einer hohen personellen Belastung. Bei den Messungen kommen teils aufwändige Messmethoden zum Einsatz, die für Laien eine Herausforderung darstellen können. Abbildung 4 zeigt ein Domänenmodell, welches diesen Vorgang näher spezifiziert.
 
 <img src="https://raw.githubusercontent.com/verenaheissbach/EPWS2122GermundHeissbach/main/images/Ursache-Wirkunngs-Diagramm.PNG" width="600">
 
-Abbildung 4: Ursache-Wirkungs-Diagramm aus dem MCI Projekt, Quelle: alte eigene Darstellung 
+Abbildung 3: Ursache-Wirkungs-Diagramm aus dem MCI Projekt, Quelle: alte eigene Darstellung 
 
 <img src="https://raw.githubusercontent.com/verenaheissbach/EPWS2122GermundHeissbach/main/images/Dom%C3%A4nenmodell%20EP_Iteration1.png" width="500">
 
