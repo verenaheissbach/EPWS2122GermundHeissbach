@@ -3,7 +3,7 @@ Repository im Rahmen des Entwicklungsprojekts WS21/22
 
 ## Darstellung des Problemraums
 
-Klimaschutz, Naturschutz sowie nachhaltige Landwirtschaft sind die aktuellen Themen unserer Gesellschaft. Wie können wir unseren Konsum und die Lebensmittelproduktion nachhaltiger gestalten? Was kann jede:r Einzeln:e dazu beitragen? Für eine nachhaltige Entwicklung weltweit wurde 2015 die Agenda 2030 mit 17 Zielen verabschiedet, die ökonomische, ökologische und soziale Aspekte adressieren [^1]. 
+Klimaschutz, Naturschutz sowie nachhaltige Landwirtschaft sind die aktuellen Themen unserer Gesellschaft. Wie können wir unseren Konsum und die Lebensmittelproduktion nachhaltiger gestalten? Was kann jede:r Einzeln:e dazu beitragen? Für eine nachhaltige Entwicklung weltweit wurde 2015 die Agenda 2030 mit 17 Zielen verabschiedet, die ökonomische, ökologische und soziale Aspekte in den Fokus nehmen [^1]. 
 
 <img src="https://raw.githubusercontent.com/verenaheissbach/EPWS2122GermundHeissbach/main/images/aquaponikKreislauf.PNG" width="600">
 
