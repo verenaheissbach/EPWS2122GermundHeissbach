@@ -36,17 +36,16 @@ Es soll ein System zur Fernüberwachung von Aquaponikanlagen entstehen, welches 
 Aquaponikanlagen stellen somit einen annähernd perfekten Kreislauf dar. Und ermöglichen eine umweltfreundlichere und nachhaltigere Landwirtschaft. Die Kombination aus Anbau und Fischzucht begünstigen darüber hinaus eine artgerechte Fischhaltung (keine Massentierhaltung), sie ermöglichen den Verzicht auf zusätzliche Dünger und verringern den gesamten Wasserverbrauch des Systems (ökologische Aspekte).
 
 Durch ein System zur Fernüberwachung könnten diese Anlagen leichter zugänglich gemacht werden und auch von Privatpersonen bewacht bzw. betrieben werden. Aquaponikanlagen können Standort unabhängig lokalisiert werden und könnten beispielsweise auch auf versiegelten Flächen platziert werden. Dadurch eröffnen sich neue Möglichkeiten der Raumnutzung [^4]. Und unterstützen darüber hinaus die Möglichkeit, dass z.B. Supermärkte eigene Anlagen betreiben könnten. Die angebauten Pflanzen könnten regional und frisch im Markt angeboten werden. Durch diese Verkürzung der Lieferketten kann CO2 gespart werden.
-Im Gesamten könnten also durch die angestrebte Vision des Projektes folgende Ziele zur nachhaltigen Entwicklung positiv zum Klimaschutz beitragen.
+Im Gesamten könnten also durch die angestrebte Vision des Projektes folgende Ziele für nachhaltige Entwicklung adressiert werden (siehe Abb. 2):
 
 
-Folgende Ziele für nachhaltige Entwicklung werden verfolgt:
+- Nr. 2: Kein Hunger
+- Nr. 8: Menschenwürdige Arbeit und Wirtschaftswachstum
+- Nr. 9: Industrie, Innovation und Infrastruktur
 - Nr. 12: Nachhaltige/r Konsum und Produktion
 - Nr. 13: Maßnahmen zum Klimaschutz
-
-Teilweise sind auch folgende Ziele enthalten:
-- Nr. 14: Leben unter Wasser (eigene Fischproduktion)
-- Nr. 15: Leben an Land (nachhaltige Landwirtschaft)
-(siehe Abb.2)
+- Nr. 14: Leben unter Wasser
+- Nr. 15: Leben an Land
 
 
 ##### Wissenschaftliche Relevanz:
