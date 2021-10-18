@@ -9,7 +9,7 @@ Klimaschutz, Naturschutz sowie nachhaltige Landwirtschaft sind die aktuellen The
 
 Abbildung 1: Aufbau einer Aquaponikanlage, Quelle: [^3]
 
-Aquaponikanlagen (Zusammensetzung aus Aquakultur und Hydroponik) stellen aufgrund des stark verringerten Wasserverbrauch und dem Verzicht auf chemische Dünger eine nachhaltige Alternative zur herkömmlichen Landwirtschaft dar und adressieren gleich acht der genannten Ziele (siehe Abbildung 2).[^2][^3] Sowohl das Wasser als auch die Nährstoffe befinden sich in einem geschlossenen System mit sehr geringen Verlusten, wodurch Aquaponik eine höchst ressourcenschonende Methode zur Fisch- und Pflanzenzucht darstellt[^2].
+Aquaponikanlagen (Zusammensetzung aus Aquakultur und Hydroponik) stellen aufgrund des stark verringerten Wasserverbrauchs und des Verzichts auf chemische Dünger eine nachhaltige Alternative zur herkömmlichen Landwirtschaft dar und adressieren gleich acht der genannten Ziele (siehe Abbildung 2).[^2][^3] Sowohl das Wasser als auch die Nährstoffe befinden sich in einem geschlossenen System mit sehr geringen Verlusten, wodurch Aquaponik eine höchst ressourcenschonende Methode zur Fisch- und Pflanzenzucht darstellt[^2].
 
 <img src="https://raw.githubusercontent.com/verenaheissbach/EPWS2122GermundHeissbach/main/images/aquaponik_sdg.png" width="400">
 
