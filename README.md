@@ -5,7 +5,7 @@ Repository im Rahmen des Entwicklungsprojekts WS21/22
 
 Klimaschutz, Naturschutz sowie nachhaltige Landwirtschaft sind die aktuellen Themen unserer Gesellschaft. Wie können wir unseren Konsum und die Lebensmittelproduktion nachhaltiger gestalten? Was kann jede:r Einzeln:e dazu beitragen? Für eine nachhaltige Entwicklung weltweit wurde 2015 die Agenda 2030 mit 17 Zielen verabschiedet, die ökonomische, ökologische und soziale Aspekte in den Fokus nehmen [^1]. 
 
-<img src="https://raw.githubusercontent.com/verenaheissbach/EPWS2122GermundHeissbach/main/images/aquaponikKreislauf.PNG?token=ARS4JF3E625YQENYOHB7NJTBO2P4I" width="600">
+<img src="https://raw.githubusercontent.com/verenaheissbach/EPWS2122GermundHeissbach/main/images/Dom%C3%A4nenmodell%20EP_Iteration1.png?token=ARS4JFZOPO3FIILHNO3XBL3BRFJ6W" width="600">
 
 Abbildung 1: Aufbau einer Aquaponikanlage, Quelle: [^3]
 
