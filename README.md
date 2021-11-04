@@ -5,25 +5,25 @@ Repository im Rahmen des Entwicklungsprojekts WS21/22
 
 Klimaschutz, Naturschutz sowie nachhaltige Landwirtschaft sind die aktuellen Themen unserer Gesellschaft. Wie können wir unseren Konsum und die Lebensmittelproduktion nachhaltiger gestalten? Was kann jede:r Einzeln:e dazu beitragen? Für eine nachhaltige Entwicklung weltweit wurde 2015 die Agenda 2030 mit 17 Zielen verabschiedet, die ökonomische, ökologische und soziale Aspekte in den Fokus nehmen [^1]. 
 
-<img src="https://raw.githubusercontent.com/verenaheissbach/EPWS2122GermundHeissbach/main/images/Dom%C3%A4nenmodell%20EP_Iteration1.png?token=ARS4JFZOPO3FIILHNO3XBL3BRFJ6W" width="600">
+<img src="https://raw.githubusercontent.com/verenaheissbach/EPWS2122GermundHeissbach/main/images/aquaponik_kreislauf.png?token=ARS4JF2EKEBPYWK73FJAVMLBRUTGA" width="600">
 
-Abbildung 1: Aufbau einer Aquaponikanlage, Quelle: [^3]
+Abbildung 1: Nährstoffkreislauf in einer Aquaponikanlage. Quelle: Adobe Stock (verändert)
 
 Aquaponikanlagen (Zusammensetzung aus Aquakultur und Hydroponik) stellen aufgrund des stark verringerten Wasserverbrauchs und des Verzichts auf chemische Dünger eine nachhaltige Alternative zur herkömmlichen Landwirtschaft dar und adressieren gleich acht der genannten Ziele (siehe Abbildung 2).[^2][^3] Sowohl das Wasser als auch die Nährstoffe befinden sich in einem geschlossenen System mit sehr geringen Verlusten, wodurch Aquaponik eine höchst ressourcenschonende Methode zur Fisch- und Pflanzenzucht darstellt[^2].
 
-<img src="https://raw.githubusercontent.com/verenaheissbach/EPWS2122GermundHeissbach/main/images/aquaponik_sdg.png?token=ARS4JF5LYX7LWC76Z5OQ5F3BO2P7W" width="400">
+<img src="https://raw.githubusercontent.com/verenaheissbach/EPWS2122GermundHeissbach/main/images/aquaponik_sdg.png?token=ARS4JF57A5JDOSH4ALBZFK3BRUS3Q" width="400">
 
-Abbildung 2: Erfüllte Ziele für eine nachhaltige Entwicklung, Quelle: [^2]
+Abbildung 2: Erfüllte Ziele für eine nachhaltige Entwicklung. Quelle: [^2]
 
-Der zeitliche Aufwand für den privaten Betrieb von Aquaponikanlagen kann hinsichtlich der geplanten Größe sowie der verfolgten Ziele stark variieren.[^3] Im Rahmen eines Projekts des Instituts für Biologiedidaktik der Universität zu Köln wird seit mehreren Jahren eine kleine Anlage betrieben. Die Projektmitarbeiter:innen müssen hierfür eine eine tägliche visuelle Kontrolle durchführen sowie regelmäßig die Wasserqualität anhand diverser Messwerte wie Temperatur, pH-Wert, Sauerstoffgehalt und Mineraliengehalt überprüfen. Besonders Letzteres hat eine hohe Bedeutung für den wissenschaftlichen Aspekt der Anlage, führt aber auch zu einer hohen personellen Belastung. Bei den Messungen kommen teils aufwändige Messmethoden zum Einsatz, die für Laien eine Herausforderung darstellen können. Abbildung 4 zeigt ein Domänenmodell, welches diesen Vorgang näher spezifiziert.
+Der zeitliche Aufwand für den privaten Betrieb von Aquaponikanlagen kann hinsichtlich der geplanten Größe sowie der verfolgten Ziele stark variieren.[^3] Im Rahmen eines Projekts des Instituts für Biologiedidaktik der Universität zu Köln besteht seit mehreren Jahren eine kleine Anlage. Aufgrund eines Mangels an zeitlichen Kapazitäten zur Pflege der Anlage – vor allem bedingt durch die Corona-Pandemie – ist der Betrieb zurzeit stillgelegt. Zu den Tätigkeiten an der Anlage zählen neben den täglichen visuellen Kontrollen des Wasserstands, der Fische und der Verrohrung die regelmäßige Überprüfung der Wasserqualität anhand diverser Messwerte wie Temperatur, pH-Wert, Sauerstoffgehalt und Mineraliengehalt. Die detaillierte Werteaufnahme hat eine hohe Bedeutung für den wissenschaftlichen Aspekt der Anlage, führt aber auch zu einer hohen personellen Belastung. Dieser Aufgabenumfang kann schnell zu einer hohen personellen Belastung führen. Bei den Messungen kommen darüber hinaus teils aufwändige Messmethoden zum Einsatz, die für Laien eine Herausforderung darstellen können. Abbildung 4 zeigt ein Domänenmodell, welches diesen Vorgang näher spezifiziert.
 
-<img src="https://raw.githubusercontent.com/verenaheissbach/EPWS2122GermundHeissbach/main/images/Ursache-Wirkunngs-Diagramm.PNG?token=ARS4JF67TPURMEQYPA26DKTBO2QAM" width="600">
+<img src="https://raw.githubusercontent.com/verenaheissbach/EPWS2122GermundHeissbach/main/images/Ursache-Wirkunngs-Diagramm.PNG?token=ARS4JFZBUB5WBGPKXUCDYQTBRUS5E" width="600">
 
-Abbildung 3: Ursache-Wirkungs-Diagramm aus dem MCI Projekt, Quelle: alte eigene Darstellung 
+Abbildung 3: Ursache-Wirkungs-Diagramm aus dem MCI Projekt. Quelle: eigene Darstellung 
 
-<img src="https://raw.githubusercontent.com/verenaheissbach/EPWS2122GermundHeissbach/main/images/Dom%C3%A4nenmodell%20EP_Iteration1.png?token=ARS4JFYGYJ7SNVMUJBIEZELBO2P6G" width="500">
+<img src="https://raw.githubusercontent.com/verenaheissbach/EPWS2122GermundHeissbach/main/images/Dom%C3%A4nenmodell%20EP(3).png?token=ARS4JF6XYKNWNEQ3DKNRQMLBRUS7I" width="1000">
 
-Abbildung 4: Domänenmodell, Quelle: eigene Darstellung
+Abbildung 4: Domänenmodell. Quelle: eigene Darstellung
 
 
 ## Zielsetzung und Vision
