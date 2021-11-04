@@ -1,0 +1,6 @@
+- Fernüberwachung und Teil-Automatisierung von kleinen Aquaponikanlagen für die Innennutzung
+- geeignet für Privatbetreiber, einfache Handhabung
+- Warnsystem bei kritischen Werten
+- Reduzierung des zeitlichen Aufwands für den Betrieb einer Aquaponikanlage
+- erweiterbares System 
+- auch für wissenschaftliche und didaktische Zwecke geeignet
