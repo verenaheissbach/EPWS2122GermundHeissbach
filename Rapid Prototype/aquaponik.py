@@ -1,17 +1,10 @@
-from MCP3008 import MCP3008
 import os, time
-from datetime import datetime # für aktuelle Zeit
 import RPi.GPIO as GPIO
 from pushbullet import Pushbullet
 import glob
 
-import argparse
-
+from MCP3008 import MCP3008
 from influxdb import InfluxDBClient
-from influxdb.client import InfluxDBClientError
-
-
-
 
 #### Grundeinstellungen
 
@@ -68,20 +61,29 @@ def read_temp_raw():
     f.close()
     return lines
 
-def getTemperature():
-    lines = read_temp_raw()
-    while lines[0].strip()[-3:] != "YES":
-        time.sleep(0.2)
+def getTemperature():    
+    # 10-malige Messung
+    v = 0
+    for i in range(10):
         lines = read_temp_raw()
-    equals_pos = lines[1].find("t=")
-    if equals_pos != -1:
-        temp_string = lines[1][equals_pos+2:]
-        temp_c = float(temp_string) / 1000.0
-        return temp_c
+        while lines[0].strip()[-3:] != "YES":
+            time.sleep(0.2)
+            lines = read_temp_raw()
+        equals_pos = lines[1].find("t=")
+        if equals_pos != -1:
+            temp_string = lines[1][equals_pos+2:]
+            temp_c = float(temp_string) / 1000.0
+            v += temp_c
+    v /= 10.0
+    return v
+    
     
 def temperatureControl():
+    
+    # Temperaturdaten einlesen 
     t = getTemperature()
     
+    # Erstellung der JSON-Daten und Einfügen in InfluxDB
     data = []
     data.append(
         {
@@ -96,13 +98,17 @@ def temperatureControl():
     )
 
     client.write_points(data)
+    print("Temperatur liegt bei %.2f Grad Celsius" % t)
     
-    ## Benachrichtigung
-    
+    ## Benachrichtigung per Pushbullet
     if t < SETTINGS["TEMP_MIN"]:
         dev = pb.get_device("Galaxy Note 9")
         push = dev.push_note("Warnung", "Die Temperatur ist zu niedrig! Bitte prüfen.")
         print("Temperatur zu niedrig!  %.2f Grad Celsius" % (t))
+    elif t > SETTINGS["TEMP_MAX"]:
+        dev = pb.get_device("Galaxy Note 9")
+        push = dev.push_note("Warnung", "Die Temperatur ist zu hoch! Bitte prüfen.")
+        print("Temperatur zu hoch! %.2f Grad Celsius" % (t))
     
     
           
@@ -117,11 +123,13 @@ def getWaterLevel():
 
     
 
-def waterLevelControl(): # get water level data
+def waterLevelControl():
     adc = MCP3008()
 
+    # Wasserstandsdaten einlesen
     v = getWaterLevel()
     
+    # Erstellung der JSON-Daten und Einfügen in InfluxDB
     data = []
     data.append(
         {
@@ -137,7 +145,7 @@ def waterLevelControl(): # get water level data
 
     client.write_points(data) 
     
-    
+    # Benachrichtigung per Pushbullet und Befüllung bei niedrigem Wasserstand
     if v < SETTINGS["WATER_MIN"]:
         dev = pb.get_device("Galaxy Note 9")
         push = dev.push_note("Warnung", "Der Wasserstand ist zu niedrig! Wasser wird nachgefüllt.")
@@ -157,7 +165,11 @@ def waterLevelControl(): # get water level data
          
         print("Wasserpegel OK!  %.2f cm" % (value))
          
-        push = dev.push_note("Entwarnung", "Befüllung abgeschlossen.")
+        push = dev.push_note("Entwarnung", "Befüllung abgeschlossen.")        
+    elif v > SETTINGS["WATER_MAX"]:
+        dev = pb.get_device("Galaxy Note 9")
+        push = dev.push_note("Warnung", "Der Wasserstand ist zu hoch! Bitte prüfen.")
+        print("Wasserpegel zu hoch!  %.2f cm" % (v))
     
 waterLevelControl()
 temperatureControl()
