@@ -1,4 +1,4 @@
-from kvs import settings
+from settings import settings
 
 if __name__ == "__main__":
     print("Datei wurde direkt aufgerufen und die Main wird ausgeführt")
@@ -20,7 +20,7 @@ def button_action():
 
 
 fenster = Tk()
-fenster.geometry("370x250")
+fenster.geometry("410x280")
 fenster.title("Aquaponik Überwachungssystem")
 
 # Anweisungslabel
@@ -56,7 +56,6 @@ eingabefeld7.insert(0, settings['TEMP_MAX'])
 
 # Erstellen der Buttons
 submit_button = Button(fenster, text="Bestätigen", command=button_action)
-exit_button = Button(fenster, text="Beenden", command=fenster.quit)
 
 # Hinzufügen der Komponenten in das Fenster
 start_lable.grid(row=0, column=0)
@@ -77,7 +76,6 @@ my_lable7.grid(row=6, column=0)
 eingabefeld7.grid(row=6, column=1)
 
 submit_button.grid(row=7, column=0)
-exit_button.grid(row=7, column=1)
 submit_label.grid(row=8, column=0, columnspan=8)
 
 # Ereignisschleife, warten auf Eingabe des Nutzers
