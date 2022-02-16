@@ -20,7 +20,7 @@ def button_action():
 
 
 fenster = Tk()
-fenster.geometry("410x280")
+fenster.geometry("420x300")
 fenster.title("Aquaponik Überwachungssystem")
 
 # Anweisungslabel
@@ -71,12 +71,12 @@ eingabefeld4.grid(row=4, column=1)
 my_lable5.grid(row=5, column=0)
 eingabefeld5.grid(row=5, column=1)
 my_lable6.grid(row=6, column=0)
-eingabefeld6.grid(row=5, column=1)
-my_lable7.grid(row=6, column=0)
-eingabefeld7.grid(row=6, column=1)
+eingabefeld6.grid(row=6, column=1)
+my_lable7.grid(row=7, column=0)
+eingabefeld7.grid(row=7, column=1)
 
-submit_button.grid(row=7, column=0)
-submit_label.grid(row=8, column=0, columnspan=8)
+submit_button.grid(row=8, column=0)
+submit_label.grid(row=9, column=0, columnspan=8)
 
 # Ereignisschleife, warten auf Eingabe des Nutzers
 mainloop()
