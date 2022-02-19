@@ -20,7 +20,7 @@ def getWaterLevel():
     
 
 def waterLevelControl():
-    adc = MCP3008()
+    
 
     # Wasserstandsdaten einlesen
     v = getWaterLevel()
@@ -46,13 +46,11 @@ def waterLevelControl():
         dev = basic_setup.pb.get_device("Galaxy Note 9")
         push = dev.push_note("Warnung", "Der Wasserstand ist zu niedrig! Wasser wird nachgefüllt.")
         print("Wasserpegel zu niedrig!  %.2f cm" % (v))
-        GPIO.setup(settings["WATER_GPIO"], GPIO.OUT, initial=GPIO.HIGH)
+        GPIO.output(settings["WATER_GPIO"], GPIO.HIGH)
     
-        while (True):
-            time.sleep(settings["WATERING_TIME"])
-            
+        while (True):                
             value = getWaterLevel()
-            if value > (settings["WATER_MIN"] + 2):
+            if value > (settings["WATER_MIN"] + 5):
                 break
             
             
@@ -66,5 +64,7 @@ def waterLevelControl():
         dev = basic_setup.pb.get_device("Galaxy Note 9")
         push = dev.push_note("Warnung", "Der Wasserstand ist zu hoch! Bitte prüfen.")
         print("Wasserpegel zu hoch!  %.2f cm" % (v))
-        
+
+adc = MCP3008()
+GPIO.setup(settings["WATER_GPIO"], GPIO.OUT, initial=GPIO.LOW)
 waterLevelControl()
