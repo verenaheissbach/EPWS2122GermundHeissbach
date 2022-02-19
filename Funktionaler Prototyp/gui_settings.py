@@ -1,4 +1,4 @@
-from kvs import settings
+from settings import settings
 
 if __name__ == "__main__":
     print("Datei wurde direkt aufgerufen und die Main wird ausgeführt")
@@ -19,20 +19,20 @@ def button_action():
         return
 
     # Wasserstand Min Validierung
-    if int(eingabefeld3.get()) < 25:
+    if int(eingabefeld3.get()) < 20:
         eingabefeld3.delete(0, 'end')
-        eingabefeld3.insert(0, "25")
-    elif int(eingabefeld3.get()) > 55:
+        eingabefeld3.insert(0, "20")
+    elif int(eingabefeld3.get()) > 40:
         eingabefeld3.delete(0, 'end')
-        eingabefeld3.insert(0, "55")
+        eingabefeld3.insert(0, "40")
 
     # Wasserstand Max Validierung
-    if int(eingabefeld4.get()) < 35:
+    if int(eingabefeld4.get()) < 41:
         eingabefeld4.delete(0, 'end')
-        eingabefeld4.insert(0, "35")
-    elif int(eingabefeld4.get()) > 55:
+        eingabefeld4.insert(0, "41")
+    elif int(eingabefeld4.get()) > 50:
         eingabefeld4.delete(0, 'end')
-        eingabefeld4.insert(0, "55")
+        eingabefeld4.insert(0, "50")
 
     # Temperatur Min Validierung
     if int(eingabefeld5.get()) < 18:
@@ -50,7 +50,7 @@ def button_action():
         eingabefeld6.delete(0, 'end')
         eingabefeld6.insert(0, "35")
 
-    with open("kvs.py", "w") as file:
+    with open("settings.py", "w") as file:
         data = "settings = {\n\t\"WATER_GPIO\": %s, \n\t\"WATER_CHANNEL\": %s, \n\t\"WATER_MIN\": %s, " \
                "\n\t\"WATER_MAX\": %s, \n\t\"TEMP_MIN\": %s, \n\t\"TEMP_MAX\": %s\n}" % (
                    eingabefeld1.get(), eingabefeld2.get(), eingabefeld3.get(), eingabefeld4.get(), eingabefeld5.get(),
@@ -124,3 +124,4 @@ submit_label.grid(row=8, column=0, columnspan=8)
 
 # Ereignisschleife, warten auf Eingabe des Nutzers
 mainloop()
+
